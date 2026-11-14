@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成"
+  short_description: "将粘贴文章或本地 Markdown、TXT 文件提炼为有据可查、不凑数的知识卡片"
+  default_prompt: "请使用 $make-knowledge-cards，将我提供的文章提炼成 5～8 张知识卡片；信息不足时少做，每张只讲一个知识点，并保留原文依据。"
